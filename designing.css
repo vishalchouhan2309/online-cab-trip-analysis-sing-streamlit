@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('C:/Users/syed saad/Mini Project/Delight Mother.ttf');
+  }
+#sentence1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD700;
+    text-align:center;
+    font-size:50px;
+}
+
+#sentence2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: lightblue;
+    text-align:center;
+    font-size:50px;
+}
+#sentence3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #6c6c6a;
+    text-align:center;
+    font-size:40px;
+}
+#sentence4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ed0d0d;
+    text-align:center;
+    font-size:40px;
+}
+#sentence5 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD700;
+    text-align:center;
+    font-size:40px;
+}
+#sentence6 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD700;
+    text-align:center;
+    font-size:40px;
+}
+#sentence7 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD700;
+    text-align:center;
+    font-size:40px;
+}
+#sentence8 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD700;
+    text-align:center;
+    font-size:40px;
+}
+#sentence9 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #002fff;
+    text-align:center;
+    font-size:40px;
+}
+#sentence10 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #f50c0c;
+    text-align:center;
+    font-size:40px;
+}
+#sentence11 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #043dd9;
+    text-align:center;
+    font-size:40px;
+}
+#sentence12 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #043dd9;
+    text-align:center;
+    font-size:40px;
+}
+#sentence13 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #3b5fdf;
+    text-align:center;
+    font-size:45px;
+}
+#conclusion {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD700;
+    text-align:center;
+    font-size:45px;
+}
+#conclusion1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #4dc66b;
+    font-size:25px;
+}
+table {
+  background-color: #e8f0fe;
+  color: #333333;
+  width: 100%;
+}
+
+table tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+table td {
+  color: #442266;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  @media screen and (max-width: 768px) {
+    table {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (min-width: 769px) and (max-width: 1024px) {
+    table {
+      width: 80%;
+    }
+  }
+  
+  @media screen and (min-width: 1025px) {
+    table {
+      width: 60%;
+    }
+  }
+div.css-1r6slb0.e1tzin5v2 {
+    background-color: #EEEEEE;
+    border: 2px solid #CCCCCC;
+    padding: 5% 5% 5% 10%;
+    border-radius: 5px;
+}
